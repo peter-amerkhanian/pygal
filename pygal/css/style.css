@@ -1,4 +1,4 @@
-/*
+﻿/*
  * This file is part of pygal
  *
  * A python svg graph plotting library
@@ -117,7 +117,7 @@
 }
 
 {{ id }}.tooltip rect {
-  fill: {{ style.plot_background }};
+  fill: {{ style.tooltip_background }};
   stroke: {{ style.foreground_strong }};
   -webkit-transition: opacity {{ style.transition }};
   -moz-transition: opacity {{ style.transition }};

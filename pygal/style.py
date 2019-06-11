@@ -31,7 +31,7 @@ class Style(object):
 
     plot_background = 'rgba(255, 255, 255, 1)'
     background = 'rgba(249, 249, 249, 1)'
-	tooltip_background = 'rgba(255, 255, 255, 1)'
+    tooltip_background = 'rgba(255, 255, 255, 1)'
     value_background = 'rgba(229, 229, 229, 1)'
     foreground = 'rgba(0, 0, 0, .87)'
     foreground_strong = 'rgba(0, 0, 0, 1)'
